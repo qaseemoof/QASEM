@@ -1,1 +1,1 @@
-aHR0cHM6Ly9yLnhmdXRpLmNvbS9hcGkvdjEvY2xpZW50L3N1YnNjcmliZT90b2tlbj1jYjcwMjMxNzJmYjNhZDM5NTlmZTRkMzhmMGE4ZGQ0Nw==
+https://r.xfuti.com/api/v1/client/subscribe?token=cb7023172fb3ad3959fe4d38f0a8dd47
